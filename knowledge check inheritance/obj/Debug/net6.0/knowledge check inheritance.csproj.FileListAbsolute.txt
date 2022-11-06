@@ -1,0 +1,15 @@
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\knowledge check inheritance.csproj.AssemblyReference.cache
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\knowledge check inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\knowledge check inheritance.AssemblyInfoInputs.cache
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\knowledge check inheritance.AssemblyInfo.cs
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\knowledge check inheritance.csproj.CoreCompileInputs.cache
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\bin\Debug\net6.0\knowledge check inheritance.exe
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\bin\Debug\net6.0\knowledge check inheritance.deps.json
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\bin\Debug\net6.0\knowledge check inheritance.runtimeconfig.json
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\bin\Debug\net6.0\knowledge check inheritance.dll
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\bin\Debug\net6.0\knowledge check inheritance.pdb
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\knowledge check inheritance.dll
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\refint\knowledge check inheritance.dll
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\knowledge check inheritance.pdb
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\knowledge check inheritance.genruntimeconfig.cache
+C:\Users\cbish\Desktop\knowlege check inheritance\knowledge check inheritance\knowledge check inheritance\obj\Debug\net6.0\ref\knowledge check inheritance.dll
